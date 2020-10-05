@@ -3,17 +3,16 @@ import "firebase/auth";
 import "firebase/firestore";
 
 //firebase config for Daichi
-var firebaseConfig_Daichi = {
-    apiKey: "AIzaSyAN7dAq-DCc_9ac6oQJmF8Jfx3couphkzU",
-    authDomain: "proj3-993d9.firebaseapp.com",
-    databaseURL: "https://proj3-993d9.firebaseio.com",
-    projectId: "proj3-993d9",
-    storageBucket: "proj3-993d9.appspot.com",
-    messagingSenderId: "204103118226",
-    appId: "1:204103118226:web:9b713ec8aa37ad3deb254b",
-    measurementId: "G-N8MW45J56F"
-};
-
+const firebaseConfig_Daichi = {
+    apiKey: "AIzaSyB9VylriN_y5be7tgBSaq0mgK6xUsMHt-8",
+    authDomain: "otterfeed-f0857.firebaseapp.com",
+    databaseURL: "https://otterfeed-f0857.firebaseio.com",
+    projectId: "otterfeed-f0857",
+    storageBucket: "otterfeed-f0857.appspot.com",
+    messagingSenderId: "714324966452",
+    appId: "1:714324966452:web:53252dda32f23aeb2ade61",
+    measurementId: "G-Y095812884"
+  };
 
 // Your web app's Firebase configuration
 // var firebaseConfig_Ed = {
